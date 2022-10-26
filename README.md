@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calango06102006
-- 👀 Eu estou interessado em aprender a programar novas linguagen
+- 👀 Eu estou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de Javascript e scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
